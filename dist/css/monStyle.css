@@ -1,0 +1,65 @@
+body {
+	padding-top: 80px;
+	background: url(../../Images/pont.jpg);
+	color: white;
+	font-family: 'Century Gothic';
+	padding-left: 50px;
+	padding-right: 50px
+}
+
+.navbar{
+	background-color: rgb(255,0,0,);
+    font-family: "Blackadder ITC";
+	font-style: "teal";
+	padding-right: 95px;
+	padding-left: 85px;
+}
+.avatar{
+	/*background: url(../../Images/2.jpg) center;
+	background: rgb(0,37,74);
+	background-size: cover;*/
+
+}
+
+/* authentification   */
+#email{
+	width: 225px;
+}
+#mdp{
+	width: 120px;
+}
+/* index creation compte by Jason MOUSSA   */
+#creer{
+	width: 225px;
+}
+/* padding index authentificationby Jason MOUSSA   */
+#authentification{
+	padding-right: 40px;
+	padding-left: 8px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color: white;
+	color: black;
+}
+/* padding index creation compte sur l'index (nouveau sur mini chat) Jason MOUSSA   */
+#nouveau{
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	background-color: white;
+	color: black;
+}
+#bienvenue{
+	padding-right: 2px;
+	padding-left: 1px;
+}
+/* boutton s'inscrire sur la page d'index du site Jason MOUSSA   */
+#boutton_inscription{
+	border-radius: 45px;
+}
+/* boutton se connecter sur la page d'index du site Jason MOUSSA   */
+#se_connceter{
+	border-radius: 45px; 
+	width: 120px;
+}
