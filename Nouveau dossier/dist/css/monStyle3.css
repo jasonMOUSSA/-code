@@ -1,0 +1,76 @@
+/* body de la pages princiaple by Jason MOUSSA   */
+body {
+	padding-top: 8px;
+	background: rgb(240,240,240);
+	font-family: 'Century Gothic';
+	padding-left: 25px;
+	padding-right: 50px
+}
+/* la barre de navigation de la pages principale by Jason MOUSSA   */
+.navbar{
+	background-color: white;
+    font-family: "Blackadder ITC";
+    font-style: "teal";
+	padding-right: 55px;
+	padding-left: 50px;
+	color:black;
+}
+/* positionnement de la zone de recherche dans la navbar pages principale by Jason MOUSSA   */
+#search-nav{
+	padding-top: 15px;	
+	width: 350px;
+	font-family: "Time New Roman";
+}
+/* la zone de recherche dans la navebar pages principale by Jason MOUSSA   */
+#zone-recherche{
+	height: 28px;
+}
+#block-recherche{
+	margin-bottom: 10px; 
+}
+#titre{
+	text-align:10px;
+}
+/* block gauche de la page principale by Jason MOUSSA   */
+#gauche1{
+	padding-left: 4px;
+	padding-right: 5px;
+	padding-top: 110px;
+	padding-bottom: 20px;
+	background: rgb(36,146,255);
+	color: black;
+	margin-left: 45px;
+	margin-top: 0px;
+}
+#gauche2{
+	padding-left: 4px;
+	padding-right: 5px;
+	padding-top: 75px;
+	padding-bottom: 20px;
+	background-color: white;
+	color: black;
+	margin-left: 45px;
+}
+/* block du milieu de la page principale by Jason MOUSSA   */
+#center{
+	padding-left: 4px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	color: black;
+	text-align-left: 50px;
+	margin-right: 10px;
+}
+/* block drooit de la page principale by Jason MOUSSA   */
+#droit{
+	background-color: white;
+	padding-left: 10px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 20px;
+	color: black;
+}
+/* block du milieu barre de navigation et bouton de la page principale by Jason MOUSSA   */
+#centre2{
+	background-color: white; 
+}
