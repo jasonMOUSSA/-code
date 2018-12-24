@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>gestion evenementielle</title>
+	<script type="text/javascript">
+		function direBonjour(){
+			var prenom = document.getElementById('prenom').value;
+			var nom = document.getElementById('nom').value
+			document.getElementById('resultat').innerHTML = 'bonjour'+'  '+'  '+prenom+'  '+nom;
+		}
+	</script>
+</head>
+<body>
+	<table>
+		<tr><td>prenom</td><td><input type="text" id="prenom" name=""></td></tr>
+        <tr><td>nom</td><td><input type="text" id="nom" name=""></td></tr>
+        <tr><td></td><td> <input type="button" name="" value="Action" onclick="direBonjour(); return false;"></td></tr>
+	</table>
+	<span id="resultat"></span>
+</body>
+</html>
